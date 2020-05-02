@@ -38,6 +38,7 @@ const Noticia = ({ noticia }) => {
 
 Noticia.propTypes = {
     noticia: PropTypes.object.isRequired
+    //prueba de cambios en versiones
 }
 
 export default Noticia;
